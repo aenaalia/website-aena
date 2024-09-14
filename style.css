@@ -77,3 +77,8 @@ img.birthday {
   body.play-music {
     animation: fadeIn 2s ease-in-out;
   }
+
+a {
+    color: blue;
+    text-decoration: underline;
+  }
