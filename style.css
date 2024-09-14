@@ -2,13 +2,17 @@
 
 body {
   transition: all 0.2s ease-in-out;
-  background: #6c63ff;
+  background: #5c7ef8;
   display: grid;
   place-items: center;
   height: 100vh;
   margin: 0;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Fantasy", sans-serif;
   color: #fff;
+}
+
+h1 {
+  font-family: "Brush Script MT", sans-serif;
 }
 
 .card {
